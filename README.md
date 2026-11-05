@@ -22,18 +22,9 @@ O dashboard apresenta os seguintes indicadores:
 - **Despesas por Componente:** análise da distribuição das despesas.
 - **Análise Anual:** comparação dos resultados financeiros ao longo dos anos.
 
-## 🖥️ Visualização do projeto
-
-![Dashboard de Análise Financeira](dashboard.png)
-
 ## 🎯 Objetivo do projeto
 
 Desenvolver habilidades em Business Intelligence, análise de dados e visualização de indicadores financeiros, aplicando recursos do Power BI para transformar dados em informações relevantes para a tomada de decisões.
-
-## 📂 Arquivos disponíveis
-
-- `Lab 7.pbix`: arquivo original do projeto desenvolvido no Power BI.
-- `dashboard.png`: imagem para visualização do relatório.
 
 ## 👨‍💻 Autor
 
